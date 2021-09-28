@@ -16,6 +16,7 @@ public class LargestValueInArray {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Largest values in array: "+largest());
+		System.out.println("Largest values in arrays: "+largest());
 	}
 
 }
