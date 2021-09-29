@@ -15,6 +15,12 @@ public class Display2arrays {
 			System.out.println(b[j]+"");
 		}
 	}
+	public static void array3() {
+		int[] b= {50,30,40,50};
+		for (int j = 0; j < b.length; j++) {
+			System.out.println(b[j]+"");
+		}
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -24,6 +30,8 @@ public class Display2arrays {
 		array2();
 		//int c = a+b;
 		//System.out.println("value of C is : "+c);
+		System.out.println("Array 3 characters");
+		array3();
 		
 		
 	}
