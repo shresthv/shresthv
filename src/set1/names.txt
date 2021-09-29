@@ -1,0 +1,9 @@
+Alphabe:
+q,b,n,d,e,h
+
+Numbere:
+1
+2
+3
+45
+6
